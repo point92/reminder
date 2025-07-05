@@ -1,0 +1,1 @@
+1.1|https://raw.githubusercontent.com/point92/Reminder/main/ReminderApp_v1.1.exe
